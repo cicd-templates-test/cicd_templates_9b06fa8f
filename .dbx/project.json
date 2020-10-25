@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "dbx-dev-azure",
+      "workspace_dir": "/Shared/dbx/cicd_templates_9b06fa8f",
+      "artifact_location": "dbfs:/Shared/dbx/projects/cicd_templates_9b06fa8f"
+    }
+  }
+}
